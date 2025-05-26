@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Piero Alessandro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/pancitxx/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -14,4 +14,8 @@
 <br>
 
 <h2>Lenguajes // languages 📍</h2>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,cpp" />
+  </a>
+</p>
