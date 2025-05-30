@@ -7,6 +7,9 @@
   <a href="https://discordapp.com/users/1210356564154781696" target="blank">
     <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="payanacc.123@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>                                                                             
 <br>
 <h2>Sobre mi // About me 😃</h2>
