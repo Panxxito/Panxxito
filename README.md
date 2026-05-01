@@ -19,6 +19,6 @@
 <h2>Lenguajes // languages 📍</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,js,java,cpp,nodejs,postgres,visualstudio,vscode" />
   </a>
 </p>
